@@ -1,0 +1,11 @@
+R:\InRuss\Learn\Proects\ORSAPR\UnitTestRocketProject\obj\Debug\UnitTestRocketProject.csprojResolveAssemblyReference.cache
+R:\InRuss\Learn\Proects\ORSAPR\UnitTestRocketProject\bin\Debug\UnitTestRocketProject.dll
+R:\InRuss\Learn\Proects\ORSAPR\UnitTestRocketProject\bin\Debug\UnitTestRocketProject.pdb
+R:\InRuss\Learn\Proects\ORSAPR\UnitTestRocketProject\bin\Debug\nunit.framework.dll
+R:\InRuss\Learn\Proects\ORSAPR\UnitTestRocketProject\bin\Debug\RocketProject.exe
+R:\InRuss\Learn\Proects\ORSAPR\UnitTestRocketProject\bin\Debug\RocketProject.pdb
+R:\InRuss\Learn\Proects\ORSAPR\UnitTestRocketProject\bin\Debug\nunit.framework.xml
+R:\InRuss\Learn\Proects\ORSAPR\UnitTestRocketProject\obj\Debug\UnitTestRocketProject.dll
+R:\InRuss\Learn\Proects\ORSAPR\UnitTestRocketProject\obj\Debug\UnitTestRocketProject.pdb
+R:\InRuss\Learn\Proects\ORSAPR\UnitTestRocketProject\obj\Debug\Interop.AdHocReportingExcelClientLib.dll
+R:\InRuss\Learn\Proects\ORSAPR\UnitTestRocketProject\obj\Debug\UnitTestRocketProject.csproj.ResolveComReference.cache

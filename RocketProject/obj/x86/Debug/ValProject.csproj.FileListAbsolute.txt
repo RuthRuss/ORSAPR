@@ -1,0 +1,36 @@
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\bin\Debug\ValProject.exe
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\bin\Debug\ValProject.pdb
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\obj\x86\Debug\ValProject.Properties.Resources.resources
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\obj\x86\Debug\ValProject.ValForm.resources
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\obj\x86\Debug\ValProject.ValParameterControl.resources
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\obj\x86\Debug\ValProject.csproj.GenerateResource.Cache
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\obj\x86\Debug\ValProject.exe
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\obj\x86\Debug\ValProject.pdb
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\obj\x86\Debug\ValProject.csprojResolveAssemblyReference.cache
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\bin\Debug\nunit.framework.dll
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\bin\Debug\nunit.framework.xml
+C:\Users\qwerty\Documents\Visual Studio 2010\Projects\Inventor\ValProject\ValProject\bin\Debug\nunit.mocks.dll
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\obj\x86\Debug\ValProject.exe
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\obj\x86\Debug\ValProject.pdb
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\bin\Debug\ValProject.exe
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\bin\Debug\ValProject.pdb
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\bin\Debug\nunit.framework.dll
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\bin\Debug\nunit.mocks.dll
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\bin\Debug\nunit.framework.xml
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\obj\x86\Debug\ValProject.csprojResolveAssemblyReference.cache
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\obj\x86\Debug\ValProject.Properties.Resources.resources
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\obj\x86\Debug\ValProject.ValForm.resources
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\obj\x86\Debug\ValProject.ValParameterControl.resources
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\obj\x86\Debug\ValProject.csproj.GenerateResource.Cache
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\ValProject\obj\x86\Debug\ValProject.csproj.ResolveComReference.cache
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\bin\Debug\ValProject.exe
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\bin\Debug\ValProject.pdb
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.csproj.ResolveComReference.cache
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.Properties.Resources.resources
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.RocketForm.resources
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.ValForm.resources
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.ValParameterControl.resources
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.csproj.GenerateResource.Cache
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.exe
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.pdb
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.csprojResolveAssemblyReference.cache

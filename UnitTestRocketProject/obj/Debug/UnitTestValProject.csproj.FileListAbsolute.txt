@@ -1,0 +1,9 @@
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\UnitTestValProject\obj\Debug\UnitTestValProject.csprojResolveAssemblyReference.cache
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\UnitTestValProject\bin\Debug\UnitTestValProject.dll
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\UnitTestValProject\bin\Debug\UnitTestValProject.pdb
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\UnitTestValProject\bin\Debug\nunit.framework.dll
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\UnitTestValProject\bin\Debug\ValProject.exe
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\UnitTestValProject\bin\Debug\nunit.framework.xml
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\UnitTestValProject\bin\Debug\ValProject.pdb
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\UnitTestValProject\obj\Debug\UnitTestValProject.dll
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\ValProject\UnitTestValProject\obj\Debug\UnitTestValProject.pdb

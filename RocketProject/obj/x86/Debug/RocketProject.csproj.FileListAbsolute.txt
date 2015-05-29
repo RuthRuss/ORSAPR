@@ -1,0 +1,42 @@
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\bin\Debug\ValProject.exe
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\bin\Debug\ValProject.pdb
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\RocketProject.csproj.ResolveComReference.cache
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.Properties.Resources.resources
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.RocketForm.resources
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.RocketParameterControl.resources
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\RocketProject.csproj.GenerateResource.Cache
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.exe
+R:\InRuss\Learn\Proects\ORSAPR\ValProject\obj\x86\Debug\ValProject.pdb
+R:\InRuss\Learn\Proects\ORSAPR\RocketProject\bin\Debug\RocketProject.exe
+R:\InRuss\Learn\Proects\ORSAPR\RocketProject\bin\Debug\RocketProject.pdb
+R:\InRuss\Learn\Proects\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.csproj.ResolveComReference.cache
+R:\InRuss\Learn\Proects\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.Properties.Resources.resources
+R:\InRuss\Learn\Proects\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.RocketForm.resources
+R:\InRuss\Learn\Proects\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.RocketParameterControl.resources
+R:\InRuss\Learn\Proects\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.csproj.GenerateResource.Cache
+R:\InRuss\Learn\Proects\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.exe
+R:\InRuss\Learn\Proects\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.pdb
+R:\InRuss\Learn\Proects\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.csprojResolveAssemblyReference.cache
+R:\InRuss\Learn\Proects\ORSAPR\RocketProject\bin\Debug\RocketProject.exe.config
+R:\InRuss\Learn\ТУСУР УЧЕБА\ORSAPR\RocketProject\bin\Debug\RocketProject.exe.config
+R:\InRuss\Learn\ТУСУР УЧЕБА\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.csproj.ResolveComReference.cache
+R:\InRuss\Learn\ТУСУР УЧЕБА\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.exe
+R:\InRuss\Learn\ТУСУР УЧЕБА\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.pdb
+R:\InRuss\Learn\ТУСУР УЧЕБА\ORSAPR\RocketProject\bin\Debug\RocketProject.exe
+R:\InRuss\Learn\ТУСУР УЧЕБА\ORSAPR\RocketProject\bin\Debug\RocketProject.pdb
+R:\InRuss\Learn\ТУСУР УЧЕБА\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.csprojResolveAssemblyReference.cache
+R:\InRuss\Learn\ТУСУР УЧЕБА\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.Properties.Resources.resources
+R:\InRuss\Learn\ТУСУР УЧЕБА\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.RocketForm.resources
+R:\InRuss\Learn\ТУСУР УЧЕБА\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.RocketParameterControl.resources
+R:\InRuss\Learn\ТУСУР УЧЕБА\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.csproj.GenerateResource.Cache
+R:\InRuss\Learn\ТУСУР УЧЕБА\7 семестр\ORSAPR\RocketProject\bin\Debug\RocketProject.exe.config
+R:\InRuss\Learn\ТУСУР УЧЕБА\7 семестр\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.csproj.ResolveComReference.cache
+R:\InRuss\Learn\ТУСУР УЧЕБА\7 семестр\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.exe
+R:\InRuss\Learn\ТУСУР УЧЕБА\7 семестр\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.pdb
+R:\InRuss\Learn\ТУСУР УЧЕБА\7 семестр\ORSAPR\RocketProject\bin\Debug\RocketProject.exe
+R:\InRuss\Learn\ТУСУР УЧЕБА\7 семестр\ORSAPR\RocketProject\bin\Debug\RocketProject.pdb
+R:\InRuss\Learn\ТУСУР УЧЕБА\7 семестр\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.csprojResolveAssemblyReference.cache
+R:\InRuss\Learn\ТУСУР УЧЕБА\7 семестр\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.Properties.Resources.resources
+R:\InRuss\Learn\ТУСУР УЧЕБА\7 семестр\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.RocketForm.resources
+R:\InRuss\Learn\ТУСУР УЧЕБА\7 семестр\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.RocketParameterControl.resources
+R:\InRuss\Learn\ТУСУР УЧЕБА\7 семестр\ORSAPR\RocketProject\obj\x86\Debug\RocketProject.csproj.GenerateResource.Cache
